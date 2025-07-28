@@ -549,7 +549,7 @@
         <repository>
             <id>repository.spring.milestone</id>
             <name>Spring Milestone Repository</name>
-            <url>https://repo.spring.io/milestone</url>
+            <url>http://localhost:8081//repository/maven-realeases/</url>
         </repository>
     </repositories>
 
